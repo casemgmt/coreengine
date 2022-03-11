@@ -1,4 +1,11 @@
-ererre
+
+
+ggg
+g
+g
+g
+g
+:1ererre
 rere
 test
 test
@@ -7,5 +14,9 @@ test
 test
 :i
 :I
+:i
+:i
+:i
+:wq
 
 
