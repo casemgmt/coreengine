@@ -1,3 +1,7 @@
 ererre
 rere
+test
+test
+test
+:w
 :wq
